@@ -12,7 +12,7 @@
               "identifier": "background_image",
       "type": "file",
       "description": "Background image for X section",
-      "label": "Background image",
+      "label": "Background image"
             }
           ]
     },
