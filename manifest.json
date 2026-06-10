@@ -9,7 +9,7 @@
           "label": "images",
           "variables": [
             {
-              "identifier": "x",
+              "identifier": "favicon.png",
       "type": "file",
       "description": "Background image for X section",
       "label": "Background image"
