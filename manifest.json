@@ -9,7 +9,7 @@
           "label": "images",
           "variables": [
             {
-              "identifier": "background_image/../x",
+              "identifier": "x",
       "type": "file",
       "description": "Background image for X section",
       "label": "Background image"
