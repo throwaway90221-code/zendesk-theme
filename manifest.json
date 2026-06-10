@@ -2,20 +2,9 @@
   "name": "Copenhagen",
   "author": "Zendesk",
   "version": "4.42.5",
-  "api_version": 4,
+  "api_version": 1,
   "default_locale": "en-us",
   "settings": [
-    {
-          "label": "images",
-          "variables": [
-            {
-              "identifier": "favicon",
-      "type": "file",
-      "description": "Background image for X section",
-      "label": "Background image"
-            }
-          ]
-    },
     {
       "label": "colors_group_label",
       "variables": [
