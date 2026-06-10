@@ -6,6 +6,17 @@
   "default_locale": "en-us",
   "settings": [
     {
+          "label": "images",
+          "variables": [
+            {
+              "identifier": "background_image",
+      "type": "file",
+      "description": "Background image for X section",
+      "label": "Background image",
+            }
+          ]
+    },
+    {
       "label": "colors_group_label",
       "variables": [
         {
@@ -56,7 +67,7 @@
           "description": "background_color_description",
           "label": "background_color_label",
           "value": "#FFFFFF"
-        }
+        },
       ]
     },
     {
